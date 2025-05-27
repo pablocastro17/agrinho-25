@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    pading:20px;
+    background-color: rgb(169, 221, 123);
+}
+header{
+    background-color: rgb(80, 58, 45);
+    color: aliceblue;
+    text-align: center;
+    padding: 20px 0;
+}
+h1{
+    margen:0;
+}
+h2{
+    text-align: center;
+    margin-top: 30px;
+}
